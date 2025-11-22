@@ -1,5 +1,5 @@
 #include "Eureka.c"
 int main() {
-    print("Hello!");
+    print("Hello!"); // Hello!
     waen();
 }
