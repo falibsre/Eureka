@@ -1,3 +1,4 @@
+// C version of Eureka wont get updates from 23 november 2025. Use Java version
 #include <stdio.h>
 #include <stdarg.h>
 void print(const char* format, ...) {
